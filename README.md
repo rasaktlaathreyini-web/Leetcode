@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1470-shuffle-the-array](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -51,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
