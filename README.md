@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0014-longest-common-prefix) |
 | [1470-shuffle-the-array](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0001-two-sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rasaktlaathreyini-web/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
